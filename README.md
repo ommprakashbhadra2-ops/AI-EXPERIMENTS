@@ -69,7 +69,7 @@ Note: The folder names above are suggested. Adjust them according to your actual
 
 ⚙️ How to Run the Experiments
 Step 1: Clone this repository.
-git clone https://github.com/YOUR-USERNAME/AI-EXPERIMENTS.git
+git clone https://github.com/ommprakashbhadra2-ops/AI-EXPERIMENTS.git
 Step 2: Navigate to the project directory.
 cd AI-EXPERIMENTS
 Step 3: Run the required Python experiment.
