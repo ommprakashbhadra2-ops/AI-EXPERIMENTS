@@ -87,7 +87,7 @@ Through these experiments, I aim to develop a practical understanding of:
 
 👨‍💻 Author-Omm Prakash Bhadra
 B.Tech – Computer Science and Engineering (AI & ML)
-GitHub: "Visit My GitHub Profile" (https://github.com/YOUR-USERNAME)
+GitHub: "Visit My GitHub Profile" (https://github.com/ommprakashbhadra2-ops)
 
 ---
 
